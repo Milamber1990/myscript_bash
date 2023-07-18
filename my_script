@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo apt upd
+sudo apt upgrade
+sudo lynis audit system >> /home/andrey/Documents/Documents/lynis.txt
